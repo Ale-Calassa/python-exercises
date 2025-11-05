@@ -3,7 +3,7 @@ version: '3.8'
 services:
   jupyter:
     image: jupyter/base-notebook:latest
-    container_name: jupyter-csv-analyzer
+    container_name: python-training
     ports:
       - "8889:8888"
     volumes:
