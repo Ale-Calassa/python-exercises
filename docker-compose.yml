@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  jupyter:
+    image: jupyter/base-notebook:latest
+    container_name: jupyter-csv-analyzer
+    ports:
+      - "8889:8888"
+    volumes:
+      - ./notebooks:/home/jovyan/work
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+    command: start-notebook.sh --NotebookApp.token=''
