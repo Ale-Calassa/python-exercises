@@ -1,10 +1,10 @@
-# Python Brasil Notebooks – Ambiente com Jupyter via Docker
+lingu# Python Notebooks – Ambiente com Jupyter via Docker para Treinar Python
 
-[![Status do Projeto](https://img.shields.io/badge/Status:-em%20desenvolvimento-yellow)](https://github.com/Ale-Calassa)
+[![Status do Projeto](https://img.shields.io/badge/Status:-evolução%20constante-yellow)](https://github.com/Ale-Calassa)
 
 Este repositório contém um ambiente Docker configurado com Jupyter Notebook para praticar os exercícios do 
-[Python Brasil](https://wiki.python.org.br/ListaDeExercicios). É uma forma prática e portátil de estudar e 
-evoluir em Python, com foco em lógica, estruturas de dados e resolução de problemas.
+[Python Brasil](https://wiki.python.org.br/ListaDeExercicios) e demais códigos. É uma forma prática e portátil de estudar e 
+evoluir em Python, com foco em lógica, estruturas de dados, resolução de problemas, Machine Learning, entre outros.
 
 ---
 
