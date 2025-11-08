@@ -1,4 +1,4 @@
-# Python Notebooks – Ambiente com Jupyter via Docker para Treinar Python
+# Ambiente Python com Jupyter via Docker para Treinamentos
 
 [![Status do Projeto](https://img.shields.io/badge/Status:-evolução%20constante-yellow)](https://github.com/Ale-Calassa)
 
