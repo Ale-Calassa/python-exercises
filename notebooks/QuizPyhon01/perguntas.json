@@ -1,0 +1,22 @@
+[
+  {
+    "pergunta": "Qual linguagem é usada com o framework Django?",
+    "opcoes": ["Java", "Python", "Ruby", "C#"],
+    "resposta": 1
+  },
+  {
+    "pergunta": "Qual desses é um sistema de controle de versão?",
+    "opcoes": ["Git", "Docker", "Linux", "Node.js"],
+    "resposta": 0
+  },
+  {
+    "pergunta": "O que significa HTML?",
+    "opcoes": [
+      "HyperText Markup Language",
+      "HighText Machine Language",
+      "HyperTool Multi Language",
+      "None of the above"
+    ],
+    "resposta": 0
+  }
+]
