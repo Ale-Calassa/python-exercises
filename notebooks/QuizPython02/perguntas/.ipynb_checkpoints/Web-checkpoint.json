@@ -1,0 +1,67 @@
+[
+  {
+    "nivel": "Fácil",
+    "pergunta": "Qual é a função principal do protocolo HTTP?",
+    "opcoes": ["Criptografar dados entre cliente e servidor",
+                "Transferir arquivos entre computadores",
+                "Exibir páginas web no navegador",
+                "Controlar o acesso à rede local"],
+    "resposta": 2, 
+    "extra": "Explicação: O HTTP (HyperText Transfer Protocol) é usado para transmitir páginas web entre servidores e navegadores."
+  },
+
+  {
+    "nivel": "Fácil",
+    "pergunta": "O que significa a sigla URL?",
+    "opcoes": ["Universal Resource Locator ",
+                "Uniform Resource Locator",
+                "Unique Reference Link",
+                "User Remote Login"],
+    "resposta": 1,
+    "extra": "Explicação: URL é o endereço de um recurso na web, como uma página ou arquivo."
+  },
+
+  {
+    "nivel": "Médio",
+    "pergunta": "Qual tecnologia permite que páginas web sejam atualizadas dinamicamente sem recarregar a página inteira?",
+    "opcoes": ["FTP",
+                "AJAX",
+                "DNS",
+                "SMTP"],
+    "resposta": 1,
+    "extra": "Explicação: AJAX (Asynchronous JavaScript and XML) permite comunicação assíncrona com o servidor."
+  },
+
+  {
+    "nivel": "Médio",
+    "pergunta": "Qual das opções representa uma linguagem de marcação usada para estruturar conteúdo na web?",
+    "opcoes": ["Python",
+                "SQL",
+                "Java",
+                "HTML"],
+    "resposta": 3,
+    "extra": "Explicação: HTML (HyperText Markup Language) é usada para estruturar conteúdo em páginas web."
+  },
+
+  {
+    "nivel": "Difícil",
+    "pergunta": "Em aplicações web modernas, qual é a principal vantagem da renderização do lado do servidor (SSR)?",
+    "opcoes": ["Reduz o uso de banco de dados",
+                "Melhora a segurança contra ataques XSS",
+                "Aumenta a velocidade de carregamento inicial",
+                "Elimina a necessidade de JavaScript"],
+    "resposta": 2,
+    "extra": "Explicação: SSR melhora o desempenho inicial ao entregar conteúdo renderizado diretamente do servidor."
+  },
+
+  {
+    "nivel": "Difícil",
+    "pergunta": "Qual das opções abaixo é uma prática recomendada para melhorar a segurança de uma aplicação web?",
+    "opcoes": ["Usar cookies sem criptografia",
+                "Permitir requisições de qualquer origem (CORS aberto)",
+                "Validar entradas do usuário no lado cliente apenas",
+                "Implementar proteção contra CSRF"],
+    "resposta": 3,
+    "extra": ""
+  }
+]

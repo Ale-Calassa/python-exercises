@@ -3,18 +3,21 @@
     "nivel": "Fácil",
     "pergunta": "Qual linguagem é usada com o framework Django?",
     "opcoes": ["Java", "Python", "Ruby", "C#"],
-    "resposta": 1
+    "resposta": 1, 
+     "extra": " "
   },
   {
     "nivel": "Médio",
     "pergunta": "O que é PEP8?",
     "opcoes": ["Um editor", "Um framework", "Um guia de estilo", "Uma IDE"],
-    "resposta": 2
+    "resposta": 2,
+    "extra": " "
   },
   {
     "nivel": "Difícil",
     "pergunta": "O que é Numpy?",
     "opcoes": ["Biblioteca para cálculos numéricos com arrays.", "Editor de imagens em Python.", "Framework para sites.", "Sistema operacional leve."],
-    "resposta": 0
+    "resposta": 0,
+    "extra": " "
   }
 ]
