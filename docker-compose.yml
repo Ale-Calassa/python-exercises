@@ -8,6 +8,7 @@ services:
       - "8889:8888"
     volumes:
       - ./notebooks:/home/jovyan/work
+      - ./data:/home/jovyan/work/QuizPython03 # pasta dedicada ao DB
     environment:
       - JUPYTER_ENABLE_LAB=yes
     command: start-notebook.sh --NotebookApp.token=''
